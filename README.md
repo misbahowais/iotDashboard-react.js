@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Go to iotDashboard-react.js folder and run npm install to install all the dependencies
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

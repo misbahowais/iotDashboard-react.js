@@ -1,0 +1,58 @@
+{
+  "name": "reactjs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "@progress/kendo-drawing": "^1.9.3",
+    "@progress/kendo-licensing": "^1.1.2",
+    "@progress/kendo-react-gauges": "^4.1.0",
+    "@progress/kendo-react-intl": "^4.1.0",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "igniteui-react-core": "^16.13.0",
+    "igniteui-react-gauges": "^16.13.0",
+    "moment": "^2.29.1",
+    "react": "^17.0.1",
+    "react-advanced-gauge-chart": "^0.2.7",
+    "react-calendar": "^3.2.1",
+    "react-canvas-gauges": "^1.2.1",
+    "react-dom": "^17.0.1",
+    "react-fontawesome": "^1.7.1",
+    "react-nest-thermostat": "^1.0.8",
+    "react-open-weather": "^1.1.1",
+    "react-rangeslider": "^2.2.0",
+    "react-scripts": "4.0.1",
+    "react-slider": "^1.1.2",
+    "react-thermometer-component": "^1.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
